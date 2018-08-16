@@ -4,6 +4,7 @@ def my_collect(collection)
     while i < collection.length 
     end
   else
+    puts "Hey! No block was given!"
   end
 end
 
