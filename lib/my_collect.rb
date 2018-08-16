@@ -8,6 +8,6 @@ def my_collect(collection)
   else
     puts "Hey! No block was given!"
   end
-  collection
+  
 end
 
